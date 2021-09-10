@@ -12,6 +12,9 @@ By the end of this lesson, you'll be able to:
 
 ## Prerequisites
 * Big O Notation
+* [myGA Home - Navigate to the "Data Structures" Module](https://my.generalassemb.ly/)
+
+
 * [myGA Module 1: Introduction to Hash Tables](https://my.generalassemb.ly/activities/512)
 * [myGA Module 2: Hash Tables Deep Dive](https://my.generalassemb.ly/activities/761)
 
